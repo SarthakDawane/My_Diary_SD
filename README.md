@@ -1,2 +1,2 @@
 # My_Diary_SD
-well this time
+This is My diary, Not Responsive for that time see only on Desktop please!
